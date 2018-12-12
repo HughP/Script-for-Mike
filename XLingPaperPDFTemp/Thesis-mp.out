@@ -1,0 +1,48 @@
+\BOOKMARK [1][]{rXLingPapContents.1}{Contents}{}% 1
+\BOOKMARK [1][]{rXLingPapPreface1.1}{D͙̖̖̋̋ȉ͖̭̌͛̂â̖͓͙̗͛̽c̖̭̖̭̽̋̌́r͕̭͓͐̌̀î̭̖̽̏̋̀̌t͔͓̽͐̽͐̏i̬̗͖̬̽͐̽ć̬̖̖̌́̀î̖͕͙̭͕̏́́s͖̗̖͓̏̌m̭͙̗̌͛}{}% 2
+\BOOKMARK [1][]{rXLingPapPreface2.1}{Tables,\040Figures,\040and\040Abbreviations}{}% 3
+\BOOKMARK [1][]{rXLingPapPreface3.1}{Typographical\040Conventions}{}% 4
+\BOOKMARK [1][]{rXLingPapAcknowledgements.1}{Acknowledgements}{}% 5
+\BOOKMARK [1][]{rXLingPapAbstract0.1}{Abstract}{}% 6
+\BOOKMARK [1][]{c1-Introduction.1}{1 Introduction}{}% 7
+\BOOKMARK [2][]{sKBD-underresourced-languages.2}{1.1  The keyboard layout in language vitality and the under-resourced language}{c1-Introduction.1}% 8
+\BOOKMARK [2][]{sCongnitiveFriction.2}{1.2  Cognitive Friction and the Linguistic Enterprise}{c1-Introduction.1}% 9
+\BOOKMARK [2][]{sDefinitions.2}{1.3  Linguistic orientation}{c1-Introduction.1}% 10
+\BOOKMARK [1][]{c2CS.1}{2 Multiple perspectives on the keyboard layout problem}{}% 11
+\BOOKMARK [2][]{sKeyboardsGenreal.2}{2.1  Keyboards}{c2CS.1}% 12
+\BOOKMARK [2][]{sCS.2}{2.2  Keyboards in Computer Science}{c2CS.1}% 13
+\BOOKMARK [2][]{sAsseingKeyboards.2}{2.3  Current state of assessing comparing keyboard efficiency}{c2CS.1}% 14
+\BOOKMARK [2][]{sLingusiticActivity.2}{2.4  Typing as a linguistic activity}{c2CS.1}% 15
+\BOOKMARK [2][]{sMappingLtoT.2}{2.5  Mapping linguistics to technology: orthographies in keyboards}{c2CS.1}% 16
+\BOOKMARK [1][]{sEDWritingSystem.1}{3 Eastern Dan writing system}{}% 17
+\BOOKMARK [2][]{sEasternDanBib.2}{3.1  Previous work on Eastern Dan}{sEDWritingSystem.1}% 18
+\BOOKMARK [2][]{sEasternDanPhonology.2}{3.2  Phonology}{sEDWritingSystem.1}% 19
+\BOOKMARK [2][]{sEasternDanOrthography.2}{3.3  Sound visualizations}{sEDWritingSystem.1}% 20
+\BOOKMARK [2][]{sUnitsAndOrders.2}{3.4  Units and orders}{sEDWritingSystem.1}% 21
+\BOOKMARK [2][]{Numbers.2}{3.5  Numbers}{sEDWritingSystem.1}% 22
+\BOOKMARK [2][]{Punctuation.2}{3.6  Punctuation}{sEDWritingSystem.1}% 23
+\BOOKMARK [2][]{sInternetUnicodeCharacters.2}{3.7  Internet characters}{sEDWritingSystem.1}% 24
+\BOOKMARK [2][]{sCasing.2}{3.8  Casing rules}{sEDWritingSystem.1}% 25
+\BOOKMARK [2][]{sWordBreaks.2}{3.9  Word breaking behavior}{sEDWritingSystem.1}% 26
+\BOOKMARK [2][]{sLoanWords.2}{3.10  Loan Words and borrowed letters}{sEDWritingSystem.1}% 27
+\BOOKMARK [1][]{cMethods.1}{4 Methodology}{}% 28
+\BOOKMARK [2][]{sCorpus.2}{4.1  Corpus creation and description}{cMethods.1}% 29
+\BOOKMARK [2][]{sKeyboards.2}{4.2  Keyboards}{cMethods.1}% 30
+\BOOKMARK [2][]{sSoftware.2}{4.3  Software}{cMethods.1}% 31
+\BOOKMARK [1][]{cExperiments.1}{5 Experiments}{}% 32
+\BOOKMARK [1][]{cResults.1}{6 Results}{}% 33
+\BOOKMARK [1][]{cDiscussion.1}{7 Discussion}{}% 34
+\BOOKMARK [2][]{sConclusion.2}{7.1  Conclusion}{cDiscussion.1}% 35
+\BOOKMARK [2][]{sApplications.2}{7.2  Implications for future work}{cDiscussion.1}% 36
+\BOOKMARK [1][]{rXLingPapAppendiciesPage.1}{APPENDICES}{}% 37
+\BOOKMARK [1][]{ChartResults.1}{A  Chart of all keyboard experiment results}{}% 38
+\BOOKMARK [1][]{DefinedTerms.1}{B  Glossary of technical terms}{}% 39
+\BOOKMARK [1][]{EasternDanBibliography.1}{C  Chronological bibliography of Eastern Dan texts, descriptions, and minor mentions}{}% 40
+\BOOKMARK [2][]{sEasternDanCorpora.2}{C.1  Eastern Dan Corpora}{EasternDanBibliography.1}% 41
+\BOOKMARK [2][]{sWorksDescribing.2}{C.2  Dan}{EasternDanBibliography.1}% 42
+\BOOKMARK [1][]{Technicaltools.1}{D  List of technical tools}{}% 43
+\BOOKMARK [1][]{aAplace.1}{E  A place to test temporary typesetting configurations}{}% 44
+\BOOKMARK [2][]{sTextFont.2}{E.1  TextFonts}{aAplace.1}% 45
+\BOOKMARK [2][]{sKeyboardFonts.2}{E.2  Keyboard fonts}{aAplace.1}% 46
+\BOOKMARK [2][]{sImages.2}{E.3  Images}{aAplace.1}% 47
+\BOOKMARK [1][]{rXLingPapReferences.1}{References}{}% 48
